@@ -1,2 +1,2 @@
-# script
-Cantix Crew Script
+# script cantix
+Rex4 Cantix Crew tweet: @nenghaxor
